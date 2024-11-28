@@ -8,7 +8,7 @@
   contacts: 
     (
       "+86 183 2495 1966",
-       link("mailto:flosszhi@163.com", "flosszhi@163.com"),  
+       link("mailto:shenqingyi@gmail.com", "shenqingyi@gmail.com"),  
        link("https://github.com/shenqingyi9", "github.com/shenqingyi9"),  
     )
 )
